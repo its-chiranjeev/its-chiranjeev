@@ -21,7 +21,7 @@ I am a software developer from Ghaziabad, India, currently pursuing a Master of 
 - Building RESTful APIs with Node.js, NestJS, and TypeScript
 - Creating personal full-stack projects to apply frontend and backend concepts
 - Improving database design and query optimization skills
-- Practising authentication, authorization, validation, testing, and clean architecture
+- Practicing authentication, authorization, validation, testing, and clean architecture
 - Exploring real-time applications with Socket.IO
 
 ## Currently Learning
@@ -69,12 +69,11 @@ REST APIs · JWT Authentication · Role-Based Access Control · Webhooks · Sock
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=its-chiranjeev&show_icons=true&theme=transparent&hide_border=true" alt="Chiranjeev's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-chiranjeev&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-chiranjeev&theme=github-compact&hide_border=true" alt="Chiranjeev's GitHub activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-chiranjeev&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-chiranjeev&theme=transparent&hide_border=true" alt="Chiranjeev's GitHub contribution streak" />
 </p>
 
 ## Connect With Me
