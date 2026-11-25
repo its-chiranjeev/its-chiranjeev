@@ -1,7 +1,6 @@
 # Hi, I'm Chiranjeev Rastogi 👋
 
-### Software Engineer | Full-Stack Developer | Node.js | NestJS | TypeScript | PostgreSQL
-
+### Software Engineer | Full-Stack Developer 
 <p align="center">
   <a href="https://chiranjeevrastogi.vercel.app/">
     <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-84cc16?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" />
