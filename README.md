@@ -110,7 +110,7 @@ REST APIs · JWT Authentication · Role-Based Access Control · Webhooks · Sock
 ## Connect With Me
 
 <p align="center">
-  <a href="https://chiranjeev-rastogi-portfolio.vercel.app/">
+  <a href="https://chiranjeevrastogi.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-84cc16?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/chiranjeev-rastogi">
