@@ -3,7 +3,7 @@
 ### Software Engineer | Full-Stack Developer | Node.js | NestJS | TypeScript | PostgreSQL
 
 <p align="center">
-  <a href="https://chiranjeev-rastogi-portfolio.vercel.app/">
+  <a href="https://chiranjeevrastogi.vercel.app/">
     <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-84cc16?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" />
   </a>
   <a href="mailto:chiranjeevrastogi@gmail.com">
@@ -55,6 +55,7 @@ My goal is to strengthen my full-stack engineering capabilities while continuing
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
 ### Frontend
